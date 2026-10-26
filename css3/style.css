@@ -1,0 +1,11 @@
+body {
+  background-image: url(./img/soSanh.jpg);
+}
+h2 {
+  color: blue;
+  /* opacity: 0.5; */
+  /* display: none; */
+  visibility: hidden;
+
+  background-color: yellow;
+}
